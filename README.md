@@ -3,6 +3,8 @@
 #### I am am a software developer with a keen interest in game making.
 
 ![2048 - gif](https://github.com/ofekshulberg/ofekshulberg/assets/138509154/28355087-121f-4f9c-8721-5b2052f9744a)
+![GSS - gif](https://github.com/ofekshulberg/ofekshulberg/assets/138509154/40e3dce0-aade-4d90-bb52-d9cb294f4514)
+![Mario Platformer - gif](https://github.com/ofekshulberg/ofekshulberg/assets/138509154/e6d0c71c-7662-4ea4-a99f-a8351f7c75d5)
 
 
 > [!NOTE]
