@@ -2,10 +2,7 @@
 ## Hi! I'm Ofek 🦕
 #### I am am a software developer with a keen interest in game making.
 
-
-
-https://github.com/ofekshulberg/ofekshulberg/assets/138509154/640e25b4-b460-48af-be97-103494b57206
-
+![2048 - gif](https://github.com/ofekshulberg/ofekshulberg/assets/138509154/28355087-121f-4f9c-8721-5b2052f9744a)
 
 
 > [!NOTE]
