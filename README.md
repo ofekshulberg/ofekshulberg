@@ -4,9 +4,9 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/ofekshulberg/ofekshulberg/assets/138509154/28355087-121f-4f9c-8721-5b2052f9744a" alt="2048 - gif" width="200"></td>
+    <td><img src="https://github.com/ofekshulberg/ofekshulberg/assets/138509154/28355087-121f-4f9c-8721-5b2052f9744a" alt="2048 - gif" width="150"></td>
     <td><img src="https://github.com/ofekshulberg/ofekshulberg/assets/138509154/40e3dce0-aade-4d90-bb52-d9cb294f4514" alt="GSS - gif" width="200"></td>
-    <td><img src="https://github.com/ofekshulberg/ofekshulberg/assets/138509154/e6d0c71c-7662-4ea4-a99f-a8351f7c75d5" alt="Mario Platformer - gif" width="200"></td>
+    <td><img src="https://github.com/ofekshulberg/ofekshulberg/assets/138509154/e6d0c71c-7662-4ea4-a99f-a8351f7c75d5" alt="Mario Platformer - gif" width="220"></td>
   </tr>
 </table>
 
