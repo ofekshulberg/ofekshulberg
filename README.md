@@ -5,12 +5,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ofekshulberg&theme=solarized)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ofekshulberg&theme=solarized&exclude=pypy3,c,c#,Unity)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ofekshulberg&layout=compact&theme=radical")(alt="Top Languages)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ofekshulberg&theme=solarized&exclude=pypy3,c,c#,Unity,HLSL)
 
 <table>
   <tr>
