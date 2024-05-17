@@ -16,7 +16,7 @@
 </table>
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> Will Strive To Rise Above The Standard!
 
 Self taught coder, loves challenges, riddles and solving problems.
   
@@ -27,48 +27,3 @@ that usually help me get to the position of the Go-To-Guy at any job I have.
 Looking for a chance to show my worth.
   
 Skills: Python | C | C# | Unity | Game Design
-  
-- 🔭 I’m currently working on this page. 
-
-<table>
-  <tr>
-    <td>
-      <h3>GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=ofekshulberg&show_icons=true&theme=radical" alt="GitHub Stats">
-    </td>
-    <td>
-      <h3>Top Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofekshulberg&layout=compact&theme=radical" alt="Top Languages">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>Activity Graph</h3>
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ofekshulberg&theme=react-dark" alt="Activity Graph">
-    </td>
-    <td>
-      <h3>GitHub Trophies</h3>
-      <img src="https://github-profile-trophy.vercel.app/?username=ofekshulberg&theme=onedark" alt="GitHub Trophies">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3>Projects</h3>
-      <ul>
-        <li><a href="https://github.com/ofekshulberg/project1">Project 1</a></li>
-        <li><a href="https://github.com/ofekshulberg/project2">Project 2</a></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3>Certificates</h3>
-      <ul>
-        <li><a href="https://linktocertificate1.com">Certificate 1</a></li>
-        <li><a href="https://linktocertificate2.com">Certificate 2</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-
