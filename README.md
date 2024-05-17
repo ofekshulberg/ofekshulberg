@@ -3,7 +3,7 @@
 ## Hi! I'm Ofek 🦕
 #### I am am a software developer with a keen interest in game making.
 
-![Ofek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofekshulberg&show_icons=true&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ofekshulberg&theme=monokai)
 
 <table>
   <tr>
