@@ -7,6 +7,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ofekshulberg&theme=solarized&exclude=pypy3,c,c#,Unity)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ofekshulberg&layout=compact&theme=radical") (alt="Top Languages)
+
 <table>
   <tr>
     <td><img src="https://github.com/ofekshulberg/ofekshulberg/assets/138509154/28355087-121f-4f9c-8721-5b2052f9744a" alt="2048 - gif" width="150"></td>
