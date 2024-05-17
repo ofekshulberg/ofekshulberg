@@ -5,7 +5,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ofekshulberg&theme=monokai)
 
-[![Ofek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ofekshulberg00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ofekshulberg00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <table>
   <tr>
