@@ -20,10 +20,10 @@
 
 Self taught coder, loves challenges, riddles and solving problems.
   
-As well as my very nice technical skills, I also have impressive soft-skills,
+Apart from my very nice technical skills, I also have impressive soft-skills,
   
 that usually help me get to the position of the Go-To-Guy at any job I have.
   
 Looking for a chance to show my worth.
   
-Skills: Python | C | C# | Unity | Game Design
+Skills: Calm | Focused | Fast Learner | Team Player | Curios
