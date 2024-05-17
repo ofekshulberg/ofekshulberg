@@ -5,7 +5,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ofekshulberg&theme=solarized)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ofekshulberg&theme=solarized&exclude=pypy3,c,c#,Unity,HLSL)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ofekshulberg&theme=solarized&exclude=pypy3,c,c#,hlsl)
 
 <table>
   <tr>
