@@ -4,6 +4,7 @@
 #### I am am a software developer with a keen interest in game making.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ofekshulberg&theme=monokai)
+
 ![Ofek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ofekshulberg&theme=react-dark)
 
 <table>
