@@ -28,9 +28,6 @@
   Skills: Python | C | C# | Unity | Game Design
   
   - 🔭 I’m currently working on this page. 
-
-
-
 </div>
 
 
