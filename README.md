@@ -7,7 +7,10 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ofekshulberg&theme=solarized&exclude=pypy3,c,c#,Unity)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ofekshulberg&layout=compact&theme=radical") (alt="Top Languages)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ofekshulberg&layout=compact&theme=radical")(alt="Top Languages)
 
 <table>
   <tr>
