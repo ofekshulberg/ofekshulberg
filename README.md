@@ -5,8 +5,8 @@
 
 <table style="background-color:#FFF4E1;">
   <tr>
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ofekshulberg&theme=solarized)
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ofekshulberg&theme=solarized&exclude=pypy3,c,c#,145)
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ofekshulberg&theme=solarized"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ofekshulberg&theme=solarized&exclude=pypy3,c,c#,145"></td>
   </tr>
 </table>
 
@@ -39,3 +39,6 @@ Looking for a chance to show my worth.
 
   
 Skills: Calm | Focused | Fast Learner | Team Player | Curios
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ofekshulberg&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ofekshulberg&theme=solarized&exclude=pypy3,c,c#,145)
