@@ -10,6 +10,15 @@
   </tr>
 </table>
 
+
+Self taught coder, loves challenges, riddles and solving problems.
+  
+Apart from my very nice technical skills, I also have impressive soft-skills,
+  
+that usually help me get to the position of the Go-To-Guy at any job I have.
+  
+Looking for a chance to show my worth.
+
 <table style="background-color:#FFF4E1;">
   <tr>
     <td><img src="https://github.com/ofekshulberg/ofekshulberg/assets/138509154/28355087-121f-4f9c-8721-5b2052f9744a" alt="2048 - gif" width="150"></td>
@@ -27,18 +36,5 @@
 > [!NOTE]
 > Will Strive To Rise Above The Standard!
 
-
-Self taught coder, loves challenges, riddles and solving problems.
-  
-Apart from my very nice technical skills, I also have impressive soft-skills,
-  
-that usually help me get to the position of the Go-To-Guy at any job I have.
-  
-Looking for a chance to show my worth.
-
-
-  
 Skills: Calm | Focused | Fast Learner | Team Player | Curios
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ofekshulberg&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ofekshulberg&theme=solarized&exclude=pypy3,c,c#,145)
