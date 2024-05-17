@@ -5,7 +5,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ofekshulberg&theme=monokai)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={ofekshulberg}&theme={solarized})
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ofekshulberg&theme=solarized)
 
 <table>
   <tr>
