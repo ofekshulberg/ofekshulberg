@@ -3,12 +3,12 @@
 ## Hi! I'm Ofek 🦕
 #### I am am a software developer with a keen interest in game making.
 
-<div style="display: flex; justify-content: center;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ofekshulberg&theme=solarized" alt="Profile Details" style="margin-right: 10px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ofekshulberg&theme=solarized&exclude=pypy3,c,c#,145" alt="Repos per Language">
-</div>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ofekshulberg&theme=solarized)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ofekshulberg&theme=solarized&exclude=pypy3,c,c#,145)
+<table style="background-color:#FFF4E1;">
+  <tr>
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ofekshulberg&theme=solarized)
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ofekshulberg&theme=solarized&exclude=pypy3,c,c#,145)
+  </tr>
+</table>
 
 <table style="background-color:#FFF4E1;">
   <tr>
