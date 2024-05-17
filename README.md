@@ -7,8 +7,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ofekshulberg&theme=solarized&exclude=pypy3,c,c#,Unity)
 
-![GitHub followers](https://img.shields.io/github/followers/ofekshulberg?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/ofekshulberg?label=Stars&style=social)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ofekshulberg&theme=solarized)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <table>
@@ -34,6 +33,45 @@ Skills: Python | C | C# | Unity | Game Design
   
 - 🔭 I’m currently working on this page. 
 
-
+<table>
+  <tr>
+    <td>
+      <h3>GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=ofekshulberg&show_icons=true&theme=radical" alt="GitHub Stats">
+    </td>
+    <td>
+      <h3>Top Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofekshulberg&layout=compact&theme=radical" alt="Top Languages">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Activity Graph</h3>
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ofekshulberg&theme=react-dark" alt="Activity Graph">
+    </td>
+    <td>
+      <h3>GitHub Trophies</h3>
+      <img src="https://github-profile-trophy.vercel.app/?username=ofekshulberg&theme=onedark" alt="GitHub Trophies">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3>Projects</h3>
+      <ul>
+        <li><a href="https://github.com/ofekshulberg/project1">Project 1</a></li>
+        <li><a href="https://github.com/ofekshulberg/project2">Project 2</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3>Certificates</h3>
+      <ul>
+        <li><a href="https://linktocertificate1.com">Certificate 1</a></li>
+        <li><a href="https://linktocertificate2.com">Certificate 2</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
