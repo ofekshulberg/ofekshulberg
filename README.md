@@ -19,6 +19,8 @@ that usually help me get to the position of the Go-To-Guy at any job I have.
   
 Looking for a chance to show my worth.
 
+Here are a few of my projects:
+
 <table style="background-color:#FFF4E1;">
   <tr>
     <td><img src="https://github.com/ofekshulberg/ofekshulberg/assets/138509154/28355087-121f-4f9c-8721-5b2052f9744a" alt="2048 - gif" width="150"></td>
