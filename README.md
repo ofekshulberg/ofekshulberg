@@ -10,15 +10,6 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td><img src="https://github.com/ofekshulberg/ofekshulberg/assets/138509154/28355087-121f-4f9c-8721-5b2052f9744a" alt="2048 - gif" width="150"></td>
-    <td><img src="https://github.com/ofekshulberg/ofekshulberg/assets/138509154/3d1ce57b-fcbf-4954-9d3d-b256818e2326" alt="GSS - gif" width="300"></td>
-    <td><img src="https://github.com/ofekshulberg/ofekshulberg/assets/138509154/e6d0c71c-7662-4ea4-a99f-a8351f7c75d5" alt="Mario Platformer - gif" width="220"></td>
-  </tr>
-</table>
-
-
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
