@@ -3,6 +3,8 @@
 ## Hi! I'm Ofek 🦕
 #### I am am a software developer with a keen interest in game making.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 <table>
   <tr>
     <td><img src="https://github.com/ofekshulberg/ofekshulberg/assets/138509154/28355087-121f-4f9c-8721-5b2052f9744a" alt="2048 - gif" width="150"></td>
