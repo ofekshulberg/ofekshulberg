@@ -12,11 +12,10 @@
 
 
 ### Self taught coder, loves challenges, riddles and solving problems.
-  
+
 ### Apart from my very nice technical skills, I also have impressive soft-skills,
-  
 ### that usually help me get to the position of the Go-To-Guy at any job I have.
-  
+
 ### Looking for a chance to show my worth.
 
 ### Here are a few of my projects:
